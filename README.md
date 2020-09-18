@@ -15,4 +15,5 @@ Setup of them:
 2) Put smtp credentials
 3) Install two more scripts to the site
 4) Everything is ready
- [Instruction](https://cdnjs.kamakepar.ru/kamakepar/)
+
+5)[Instruction](https://cdnjs.kamakepar.ru/kamakepar/)
